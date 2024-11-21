@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+ai_project_env/
+venv/
+myenv/
+
+# Data
+dataset/
+cropped_dataset/
+test_images/
+
+# Models
+models/*.h5
+
+# Logs
+logs/
